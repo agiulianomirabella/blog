@@ -1,3 +1,8 @@
+.heading {
+    background-color: #2D3142;
+    color: white;
+}
+
 body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     line-height: 1.6;
@@ -13,7 +18,7 @@ body {
 .blog-post {
     max-width: 700px;
     margin: 0 auto;
-    background: #ADACB5;
+    background: #D8D5DB;
     padding: 20px 30px;
     border-radius: 8px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
