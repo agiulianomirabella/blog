@@ -1,5 +1,5 @@
 .heading {
-    background-color: #114B5F;
+    background-color: #CED0CE;
     color: black;
     border-radius: 8px;
     padding: 1rem;
@@ -21,7 +21,7 @@ body {
 .blog-post {
     max-width: 700px;
     margin: 0 auto;
-    background: #D8D5DB;
+    background: #E6E8E6;
     padding: 20px 30px;
     border-radius: 8px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
