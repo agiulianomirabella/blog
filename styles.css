@@ -100,5 +100,7 @@ footer {
     margin-top: 20px;
     text-align: center;
     font-size: 0.9em;
-    color: var(--black);
+    background-color: var(--blue);
+    color: var(--white);
+    border-radius: 8px;
 }
